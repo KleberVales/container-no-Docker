@@ -64,4 +64,7 @@ docker run -d -p 8080:80 nginx
 - -p 8080:80 → mapeia porta 8080 do host → porta 80 do container
 - nginx → imagem do servidor web
 
+Agora abra no navegador:\
+👉 http://localhost:8080
+
 
