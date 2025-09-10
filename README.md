@@ -52,4 +52,12 @@ exit
 
 ## 4. Rodando um container em background (Nginx)
 
+Vamos rodar um servidor web simples:
+
+```bash
+
+docker run -d -p 8080:80 nginx
+
+```
+
 
