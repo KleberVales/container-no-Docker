@@ -39,4 +39,7 @@ docker run -it ubuntu bash
 - ubuntu → nome da imagem
 - bash → comando a executar no container
 
+Você estará dentro de um Ubuntu isolado!\
+Pode rodar comandos como ls, pwd, cat /etc/os-release.
+
 
