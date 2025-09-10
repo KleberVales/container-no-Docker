@@ -60,4 +60,8 @@ docker run -d -p 8080:80 nginx
 
 ```
 
+- -d → detached (em segundo plano)
+- -p 8080:80 → mapeia porta 8080 do host → porta 80 do container
+- nginx → imagem do servidor web
+
 
