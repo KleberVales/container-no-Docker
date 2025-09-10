@@ -35,4 +35,8 @@ docker run -it ubuntu bash
 
 ```
 
+- -it → interativo (teclado + terminal)
+- ubuntu → nome da imagem
+- bash → comando a executar no container
+
 
