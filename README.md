@@ -24,3 +24,5 @@ docker run hello-world
 ```
 
 👉 Isso baixa a imagem do Docker Hub (se ainda não existir localmente) e cria um container que apenas imprime uma mensagem.
+
+## 3. Rodando um container interativo (Ubuntu)
