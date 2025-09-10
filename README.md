@@ -69,4 +69,11 @@ Agora abra no navegador:\
 
 ## 5. Verificando containers ativos
 
+```bash
+
+docker ps            # containers ativos
+docker ps -a         # todos os containers (inclusive parados)
+
+```
+
 
