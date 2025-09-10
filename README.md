@@ -85,4 +85,10 @@ docker rm <ID ou NOME>
 
 ```
 
+✅ Com isso, você já criou e rodou três tipos diferentes de containers:
+
+- um de teste (hello-world)
+- um interativo (ubuntu)
+- um de aplicação real (nginx)
+
 
