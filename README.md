@@ -67,4 +67,6 @@ docker run -d -p 8080:80 nginx
 Agora abra no navegador:\
 👉 http://localhost:8080
 
+## 5. Verificando containers ativos
+
 
