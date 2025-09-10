@@ -29,4 +29,10 @@ docker run hello-world
 
 Agora vamos rodar um container Linux interativo:
 
+```bash
+
+docker run -it ubuntu bash
+
+```
+
 
