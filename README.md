@@ -16,3 +16,9 @@ docker info
 ## 2. Rodando seu primeiro container (Hello World)
 
 O Docker tem uma imagem oficial de teste:
+
+```bash
+
+docker run hello-world
+
+```
