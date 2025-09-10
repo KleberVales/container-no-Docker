@@ -5,3 +5,10 @@ A ideia aqui é entender como rodar qualquer aplicação simples dentro de um co
 ## 1. Verificando a instalação do Docker
 
 Depois de instalar, veja se está funcionando:
+
+```bash
+
+docker --version
+docker info
+
+```
