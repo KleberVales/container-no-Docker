@@ -76,6 +76,13 @@ docker ps -a         # todos os containers (inclusive parados)
 
 ```
 
-6. Parando e removendo containers
+## 6. Parando e removendo containers
+
+```bash
+
+docker stop <ID ou NOME>
+docker rm <ID ou NOME>
+
+```
 
 
