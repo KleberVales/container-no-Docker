@@ -42,4 +42,12 @@ docker run -it ubuntu bash
 Você estará dentro de um Ubuntu isolado!\
 Pode rodar comandos como ls, pwd, cat /etc/os-release.
 
+Para sair:
+
+```bash
+
+exit
+
+```
+
 
