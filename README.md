@@ -22,3 +22,5 @@ O Docker tem uma imagem oficial de teste:
 docker run hello-world
 
 ```
+
+👉 Isso baixa a imagem do Docker Hub (se ainda não existir localmente) e cria um container que apenas imprime uma mensagem.
