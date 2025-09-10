@@ -12,3 +12,5 @@ docker --version
 docker info
 
 ```
+
+## 2. Rodando seu primeiro container (Hello World)
